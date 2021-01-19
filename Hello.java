@@ -4,6 +4,6 @@ class Hello{
         System.out.println("Moelogy: Aplikasi Java 2020");
         System.out.println("--- *** ---");
         System.out.println("END");
-	System.out.println("User 2");
+	System.out.println("Another User");
     }
 } 
